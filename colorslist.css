@@ -19,14 +19,14 @@ h1 {
 :root {
     --beige: #f5f2ed;
     --black: #282828;
+    --light-blue: #c6d1ef;
     --dark-blue: #091024;
-    --dark-grey: #616061;
     --light-grey: #e0e0e0;
-    --white: white;
+    --dark-grey: #616061;
     --yellow-brand: #fdb532;
     --turquoise-brand: #3ca39b;
     --turquoise-text: #348e87;
-    --light-blue: #c6d1ef;
+
 }
 
 */

@@ -545,12 +545,27 @@ video {
   --tw-contain-style:  ;
 }
 
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+.bg-sbu-red1 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(213 32 55 / var(--tw-bg-opacity));
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.bg-sbu-red3 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 0 13 / var(--tw-bg-opacity));
+}
+
+.bg-sbu-red2 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 0 0 / var(--tw-bg-opacity));
+}
+
+.bg-cstck-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(40 40 40 / var(--tw-bg-opacity));
+}
+
+.bg-red-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(248 113 113 / var(--tw-bg-opacity));
 }
